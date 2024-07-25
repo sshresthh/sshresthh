@@ -25,22 +25,22 @@ Hello there! I'm thrilled to have you here. This README.md file serves as an int
 ### About Me
 
 Hey there! I'm Shyamsundar Shrestha, but you can call me Sam. I'm a passionate software engineer with expertise in a wide range of technologies. I love creating visually stunning and interactive experiences, and I'm excited to showcase my skills and projects on my GitHub profile and portfolio.
-
 ### Technologies I Work With
 
 Here are some of the technologies I'm proficient in:
 
-- Python ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png =100x)
-- JavaScript ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png =100x)
-- TypeScript ![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg =100x)
-- ReactJS ![ReactJS Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg =100x)
-- NextJS ![NextJS Logo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg =100x)
-- TailwindCSS ![TailwindCSS Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Tailwind_CSS_logo.svg =100x)
-- NodeJS ![NodeJS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg =100x)
-- SupaBase ![SupaBase Logo](https://avatars.githubusercontent.com/u/54179137?s=200&v=4 =100x)
-- MongoDB ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg =100x)
-- DrizzleORM ![DrizzleORM Logo](https://avatars.githubusercontent.com/u/67477579?s=200&v=4 =100x)
-- Stripe ![Stripe Logo](https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.png =100x)
+- Python
+- JavaScript
+- TypeScript
+- ReactJS
+- NextJS
+- TailwindCSS
+- NodeJS
+- SupaBase
+- MongoDB
+- DrizzleORM
+- Stripe
+
 
 ### Projects and Animations
 
