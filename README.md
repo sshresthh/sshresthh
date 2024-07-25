@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile and Portfolio!
+### About Me
 
-Hello there! I'm thrilled to have you here. This README.md file serves as an introduction to my GitHub profile and portfolio, showcasing my skills and projects. Let's dive right in!
+Hey there! I'm Shyamsundar Shrestha, but you can call me Sam. I'm a passionate software engineer with expertise in a wide range of technologies. I love creating visually stunning and interactive experiences, and I'm excited to showcase my skills and projects on my GitHub profile and portfolio.
 
 ## Technologies I Work With
 
@@ -14,37 +14,10 @@ Hello there! I'm thrilled to have you here. This README.md file serves as an int
 - SupaBase
 - MongoDB
 - DrizzleORM
+- AWS
 - Stripe
-
-## What You'll Find Here
-
-- **Projects**: I have worked on a variety of projects using the technologies mentioned above. You'll find a collection of my open-source projects, personal projects, and contributions to other repositories. Feel free to explore and provide feedback!
-
-- **Animations**: I believe in creating visually appealing and interactive experiences. You'll find cool animations incorporated into my projects, adding that extra touch of professionalism and engagement.
-
-### About Me
-
-Hey there! I'm Shyamsundar Shrestha, but you can call me Sam. I'm a passionate software engineer with expertise in a wide range of technologies. I love creating visually stunning and interactive experiences, and I'm excited to showcase my skills and projects on my GitHub profile and portfolio.
-### Technologies I Work With
-
-Here are some of the technologies I'm proficient in:
-
-- Python
-- JavaScript
-- TypeScript
-- ReactJS
-- NextJS
-- TailwindCSS
-- NodeJS
-- SupaBase
-- MongoDB
-- DrizzleORM
-- Stripe
-
-
-### Projects and Animations
-
-On my GitHub profile, you'll find a collection of my projects that demonstrate my proficiency in these technologies. But what sets my projects apart is the incorporation of cool animations. I believe in creating visually appealing and engaging experiences, and animations play a crucial role in achieving that.
+- Docker
+- and many more...
 
 ## Get in Touch
 
